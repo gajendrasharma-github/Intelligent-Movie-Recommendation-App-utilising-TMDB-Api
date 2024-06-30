@@ -2,7 +2,7 @@
 ![Logo](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)
 
 
-# Predictive Analytics and Performance Insights for Google Play Store Playstore
+# Predictive Analytics and Performance Insights for Google Playstore
 
 ## Problem Statement
 
